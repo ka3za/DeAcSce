@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeAcSce</string>
+    <string name="button_text">Call Google Calendar API</string>
+
+</resources>
